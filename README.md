@@ -7,4 +7,3 @@
 - 💬 Ask me about study techniques, data science concepts, project management.
 - 📫 How to reach me: send me an email on kbuzone@gmail.com or a message on linkedin.
 - 😄 Pronouns: he/his.
-- ⚡ Fun fact: I had a channel on YouTube and in the future I want to return to create content to it as a hobby!
