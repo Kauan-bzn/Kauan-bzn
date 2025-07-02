@@ -32,13 +32,14 @@ Organização de exercícios, anotações e projetos práticos realizados durant
 - Iniciar projetos com dados reais e exploratórios
 
 ---
+---
 
 ## 🤝 Vamos conectar?
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kauanbuzone/)
+[![Siga no LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kauanbuzone)
+
 - 📬 Me envie uma mensagem ou sugestão via issues nos repositórios!
 
 ---
-
 ✨ *Sigo aprendendo e construindo todos os dias. Sinta-se à vontade para acompanhar meus estudos e contribuições!*
 
