@@ -7,6 +7,7 @@
   <strong>🎓 IT student | 🧠 Data explorer</strong>
 </p>
 
+---
 
 ### 🚀 About Me
 
@@ -35,7 +36,7 @@
 
 ---
 
-### 📂 Featured Repositories
+### 💡 Featured Repositories
 
 📁 <a href="https://github.com/Kauan-bzn/Meus-estudos-de-dados">My Data Studies</a>
 Organization of exercises, notes, and practical projects with real data.
