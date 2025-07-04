@@ -7,7 +7,6 @@
   <strong>🎓 IT student | 🧠 Data explorer</strong>
 </p>
 
----
 
 ### 🚀 About Me
 
