@@ -1,45 +1,63 @@
-# 👋 Olá! Eu sou o Kauan
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+welcome+to+my+GitHub!;I'm+Kauan+Buzone;Data+Enthusiast+%F0%9F%93%8A" alt="Typing SVG" />
+</h2>
 
-Sou um estudante e entusiasta da área de **dados**, explorando com dedicação as áreas de **programação, análise de dados, machine learning e SQL**.
 
-Atualmente, estou estudando e fazendo exercícios/projetos, com o objetivo de construir um **portfólio técnico sólido** enquanto evoluo nos estudos e capacitações.
-
----
-
-## 🚀 O que estou estudando:
-
-- 🐍 **Python**
-- 📊 **Pandas e NumPy**
-- 🧠 **Machine Learning**
-- 🧮 **SQL**
-- 🧪 **Práticas com Jupyter Notebooks**
-- 📚 **Cursos e trilhas de aprendizado autodidata**
+<p align="center">
+  <strong>🎓 IT student | 🧠 Data explorer</strong>
+</p>
 
 ---
 
-## 📂 Repositórios em destaque
+### 🚀 About Me
 
-🔹 [Meus Estudos de Dados](https://github.com/Kauan-bzn/Meus-estudos-de-dados)  
-Organização de exercícios, anotações e projetos práticos realizados durante cursos e estudos pessoais.
+- 📊 Focused on projects with **Python**, **SQL**, and **Machine Learning**.
+- 📁 Seeking to build a **practical portfolio** with real-world data.
+- 📚 Self-taught and applied learner, with a focus on solving real-world problems.
+
+---
+
+### 💻 Tech Stack
+
+- <strong>Languages:</strong> Python, SQL
+- <strong>Data Science:</strong> Pandas, NumPy, Jupyter, Matplotlib
+- <strong>Databases:</strong> SQLite, PostgreSQL (in progress)
+- <strong>Tools:</strong> Git, GitHub
+- <strong>Methodologies:</strong> Practical projects + guided learning
 
 ---
 
-## 📈 Objetivos
+### 📘 Current Studies
 
-- Criar projetos próprios com aplicação prática
-- Aprimorar habilidades de comunicação técnica
-- Desenvolver uma base sólida em análise e visualização de dados
-- Iniciar projetos com dados reais e exploratórios
-
----
----
-
-## 🤝 Vamos conectar?
-
-[![Siga no LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kauanbuzone)
-
-- 📬 Me envie uma mensagem ou sugestão via issues nos repositórios!
+- Machine Learning with Scikit-learn
+- Data Visualization with Matplotlib and Seaborn
+- SQL for Data Analysis
+- Simple Pipelines with Python
 
 ---
-✨ *Sigo aprendendo e construindo todos os dias. Sinta-se à vontade para acompanhar meus estudos e contribuições!*
 
+### 📂 Featured Repositories
+
+📁 <a href="https://github.com/Kauan-bzn/Meus-estudos-de-dados">My Data Studies</a>
+Organization of exercises, notes, and practical projects with real data.
+
+---
+
+### 🎯 Goals
+
+- Create personal projects with practical applications
+- Grow as a Data Analyst and later as a Data Engineer
+- Improve technical communication and data storytelling
+
+---
+
+### 🤝 Let's Connect!
+
+<p>
+  <a href="https://www.linkedin.com/in/kauanbuzone">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kbuzone@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
